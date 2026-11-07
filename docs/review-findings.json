@@ -1,0 +1,300 @@
+{
+  "assets_screened": 901,
+  "material_repairs": 270,
+  "geometry_review_count": 32,
+  "geometry_categories": {
+    "chair": 30,
+    "bed": 2
+  },
+  "scope": "Whole-library technical screening and category contact-sheet review; close-up Blender checks are a bounded sample. Previously corrected geometry uses current parameter/provenance, not stale preview as truth.",
+  "issues": [
+    {
+      "id": "asset_b34afa218a2aac1b4cf6",
+      "code": "CH102",
+      "category": "chair",
+      "name": "procedural_expansion_v1_chair_001",
+      "geometry_status": "confirmed_by_user",
+      "geometry_reason": "板式底座、块状扶手和外伸脚踏板组合生硬；用户明确指出不是合理椅子造型。",
+      "recommendation": "重做结构或移除，不能仅靠换色解决。"
+    },
+    {
+      "id": "asset_4cd2ae8dfd5d13c3ea67",
+      "code": "CH103",
+      "category": "chair",
+      "name": "procedural_expansion_v1_chair_003",
+      "geometry_status": "needs_decision",
+      "geometry_reason": "高直背、头枕、封闭扶手和四脚脚踏组合，整体更像拼装支架。",
+      "recommendation": "若保留，按完整治疗椅参考重做座背和扶手。"
+    },
+    {
+      "id": "asset_764ceb5026cbdba6b854",
+      "code": "CH104",
+      "category": "chair",
+      "name": "procedural_expansion_v1_chair_004",
+      "geometry_status": "needs_decision",
+      "geometry_reason": "高直背与头枕接在块状座椅、圆盘底座上，头颈支撑和座背比例生硬。",
+      "recommendation": "确认是否需要这类治疗椅，再重做轮廓。"
+    },
+    {
+      "id": "asset_78975250faa463e6194a",
+      "code": "CH106",
+      "category": "chair",
+      "name": "procedural_expansion_v1_chair_008",
+      "geometry_status": "needs_decision",
+      "geometry_reason": "梯背木椅同时叠加头枕、封闭板扶手、脚轮和脚踏板，产品类型混杂。",
+      "recommendation": "建议精简为木椅或按护理椅重做。"
+    },
+    {
+      "id": "asset_b1f29d057e87aa7bb379",
+      "code": "CH107",
+      "category": "chair",
+      "name": "procedural_expansion_v1_chair_010",
+      "geometry_status": "needs_decision",
+      "geometry_reason": "圆座、梯背、独立头枕和滑橇底座混合，靠背与头枕比例不协调。",
+      "recommendation": "移除头枕并统一结构语言，或移除资产。"
+    },
+    {
+      "id": "asset_55c7fa958fde68366c11",
+      "code": "CH108",
+      "category": "chair",
+      "name": "procedural_expansion_v1_chair_014",
+      "geometry_status": "needs_decision",
+      "geometry_reason": "60 cm 高座配 36 cm 浅座深、摇椅底座和高环抱背；比例与稳定性需要确认。",
+      "recommendation": "核对真实摇椅参考及支撑范围。"
+    },
+    {
+      "id": "asset_c93f831746d23e2b2150",
+      "code": "CH110",
+      "category": "chair",
+      "name": "procedural_expansion_v1_chair_024",
+      "geometry_status": "needs_decision",
+      "geometry_reason": "木式环抱靠背、独立头枕与偏置五星脚轮底座组合不自然。此前连接修复不等于造型合理。",
+      "recommendation": "选择木椅或办公椅的一套完整结构。"
+    },
+    {
+      "id": "asset_7f5157e78cb660802e48",
+      "code": "CH111",
+      "category": "chair",
+      "name": "procedural_expansion_v1_chair_025",
+      "geometry_status": "needs_decision",
+      "geometry_reason": "悬臂底座上组合梯背、头枕、大板扶手和外伸脚踏板。",
+      "recommendation": "建议按一个真实椅型重做。"
+    },
+    {
+      "id": "asset_387eb24b68c2f37776be",
+      "code": "CH112",
+      "category": "chair",
+      "name": "procedural_expansion_v1_chair_029",
+      "geometry_status": "needs_decision",
+      "geometry_reason": "横梁脚轮底座、头枕与短座面组合；底座和座背比例缺少完整产品参考。",
+      "recommendation": "需要确认用途和真实参考。"
+    },
+    {
+      "id": "asset_653946c6335717b9dcca",
+      "code": "CH113",
+      "category": "chair",
+      "name": "procedural_expansion_v1_chair_031",
+      "geometry_status": "needs_decision",
+      "geometry_reason": "窄木梯背椅附加板式扶手、头枕、脚轮和脚圈，组件风格冲突。",
+      "recommendation": "简化随机附件组合。"
+    },
+    {
+      "id": "asset_9003d5f14c6072da0645",
+      "code": "CH119",
+      "category": "chair",
+      "name": "procedural_expansion_v1_chair_039",
+      "geometry_status": "needs_decision",
+      "geometry_reason": "木式环抱背加独立头枕、圆盘底座与脚踏杆，混合造型不自然。",
+      "recommendation": "按木椅或吧椅重新选型。"
+    },
+    {
+      "id": "asset_838973b8a4463e2508e2",
+      "code": "CH120",
+      "category": "chair",
+      "name": "procedural_expansion_v1_chair_040",
+      "geometry_status": "needs_decision",
+      "geometry_reason": "高环抱背、头枕接在圆盘底座和浅圆座上，座背关系生硬。",
+      "recommendation": "核对实际产品参考。"
+    },
+    {
+      "id": "asset_d8d067916d7477d872f4",
+      "code": "CH121",
+      "category": "chair",
+      "name": "procedural_expansion_v1_chair_042",
+      "geometry_status": "needs_decision",
+      "geometry_reason": "高板式扶手与细木脚、脚轮、脚踏杆组合，缺少连贯的支撑设计。",
+      "recommendation": "统一为木椅或移动护理椅。"
+    },
+    {
+      "id": "asset_3f5077e277bb17416fc1",
+      "code": "CH124",
+      "category": "chair",
+      "name": "procedural_expansion_v1_chair_051",
+      "geometry_status": "needs_decision",
+      "geometry_reason": "39 cm 窄座配高木背、头枕、大板扶手和脚圈，尺度关系拥挤。",
+      "recommendation": "复核座宽和扶手间净空。"
+    },
+    {
+      "id": "asset_449b2c92228e495b4504",
+      "code": "CH126",
+      "category": "chair",
+      "name": "procedural_expansion_v1_chair_053",
+      "geometry_status": "needs_decision",
+      "geometry_reason": "两侧大板底座配圆座、短背和外伸踏板，连接虽已修复，造型仍较生硬。",
+      "recommendation": "确认保留板式底座还是换合理支撑。"
+    },
+    {
+      "id": "asset_8855f6153e37179f39e7",
+      "code": "CH128",
+      "category": "chair",
+      "name": "procedural_expansion_v1_chair_055",
+      "geometry_status": "needs_decision",
+      "geometry_reason": "滑橇底座、直背与高封闭扶手和脚踏板组合，护理用途和比例不明确。",
+      "recommendation": "需要完整参考，不直接判为报废。"
+    },
+    {
+      "id": "asset_9b6d3e49978ba7af0c7e",
+      "code": "CH129",
+      "category": "chair",
+      "name": "procedural_expansion_v1_chair_058",
+      "geometry_status": "needs_decision",
+      "geometry_reason": "五星脚轮底座上叠加梯背、独立头枕和块状扶手，缺少合理办公椅轮廓。",
+      "recommendation": "保留朝向标注，造型单独重做。"
+    },
+    {
+      "id": "asset_9405c6aa231050dd131a",
+      "code": "CH130",
+      "category": "chair",
+      "name": "procedural_expansion_v1_chair_061",
+      "geometry_status": "needs_decision",
+      "geometry_reason": "环抱木背连接横梁底座、脚圈和深窄座面，风格与比例混杂。",
+      "recommendation": "核对支撑和座面比例。"
+    },
+    {
+      "id": "asset_c5ff8f7940cc587959d2",
+      "code": "CH131",
+      "category": "chair",
+      "name": "procedural_expansion_v1_chair_062",
+      "geometry_status": "needs_decision",
+      "geometry_reason": "窄座、高背和头枕配封闭木扶手，靠背、扶手和脚圈的尺度不协调。",
+      "recommendation": "重做座背与扶手比例。"
+    },
+    {
+      "id": "asset_9fc03e60c15837f96631",
+      "code": "CH132",
+      "category": "chair",
+      "name": "procedural_expansion_v1_chair_064",
+      "geometry_status": "needs_decision",
+      "geometry_reason": "梯背与圆座连接偏置星形底座，支柱连接和整体稳定性需人工确认。",
+      "recommendation": "需要真实椅型参考。"
+    },
+    {
+      "id": "asset_dd25aaaa8a803ebe3b17",
+      "code": "CH133",
+      "category": "chair",
+      "name": "procedural_expansion_v1_chair_069",
+      "geometry_status": "needs_decision",
+      "geometry_reason": "短浅座面配板式扶手、脚踏板和五星脚轮底座，整体拥挤。",
+      "recommendation": "复核腿部空间并重做轮廓。"
+    },
+    {
+      "id": "asset_3a74009a80bd6e3b1c16",
+      "code": "CH134",
+      "category": "chair",
+      "name": "procedural_expansion_v1_chair_070",
+      "geometry_status": "needs_decision",
+      "geometry_reason": "窄圆座配梯背、头枕、封闭扶手和偏置脚轮底座，组件拼装感明显。",
+      "recommendation": "统一结构并复核扶手间距。"
+    },
+    {
+      "id": "asset_9524cd34df39070c1486",
+      "code": "CH135",
+      "category": "chair",
+      "name": "procedural_expansion_v1_chair_073",
+      "geometry_status": "needs_decision",
+      "geometry_reason": "横梁底座配圆座、直高背、头枕和脚圈，底座与座背的产品类型不一致。",
+      "recommendation": "根据真实用途重新选型。"
+    },
+    {
+      "id": "asset_342e8ea5e6a0a0fb2d7c",
+      "code": "CH138",
+      "category": "chair",
+      "name": "procedural_expansion_v1_chair_077",
+      "geometry_status": "needs_decision",
+      "geometry_reason": "木梯背、脚轮、头枕和脚踏板混搭；座高 61 cm，需核对用途。",
+      "recommendation": "按实际参考确认是否保留。"
+    },
+    {
+      "id": "asset_a7e18cb9ea6a26d04ade",
+      "code": "CH139",
+      "category": "chair",
+      "name": "procedural_expansion_v1_chair_080",
+      "geometry_status": "needs_decision",
+      "geometry_reason": "61 cm 高、36 cm 浅座配头枕、块状扶手、横梁底座和脚踏板，比例不合理风险高。",
+      "recommendation": "优先重做。"
+    },
+    {
+      "id": "asset_42b3bcbb421ebfdc0211",
+      "code": "CH140",
+      "category": "chair",
+      "name": "procedural_expansion_v1_chair_081",
+      "geometry_status": "needs_decision",
+      "geometry_reason": "交叉折叠底座与硬直背、独立头枕、扶手混搭，缺少一致的折叠与支撑结构。",
+      "recommendation": "确认结构后重做。"
+    },
+    {
+      "id": "asset_d9e3e4d479038278a810",
+      "code": "CH141",
+      "category": "chair",
+      "name": "procedural_expansion_v1_chair_082",
+      "geometry_status": "needs_decision",
+      "geometry_reason": "木式环抱靠背、头枕与滑橇底座和脚圈组合，造型语言不一致。",
+      "recommendation": "移除不匹配附件或替换参考。"
+    },
+    {
+      "id": "asset_f0f06a3ed07096ca28a9",
+      "code": "CH142",
+      "category": "chair",
+      "name": "procedural_expansion_v1_chair_086",
+      "geometry_status": "needs_decision",
+      "geometry_reason": "无靠背座面却带高扶手，交叉底座又加脚轮和脚圈；结构用途需确认。",
+      "recommendation": "不要因双朝向标注正确就视为造型通过。"
+    },
+    {
+      "id": "asset_376a3c798977428d220f",
+      "code": "CH145",
+      "category": "chair",
+      "name": "procedural_expansion_v1_chair_095",
+      "geometry_status": "needs_decision",
+      "geometry_reason": "无靠背低座面带高扶手和大型横梁底座、脚踏杆，比例与用途不清晰。",
+      "recommendation": "确认是否为辅助转移座，否则重做。"
+    },
+    {
+      "id": "asset_58acead35fa33de23046",
+      "code": "CH147",
+      "category": "chair",
+      "name": "procedural_expansion_v1_chair_100",
+      "geometry_status": "needs_decision",
+      "geometry_reason": "木式环抱背接交叉底座和脚圈，木构件与折叠结构混合。",
+      "recommendation": "按一个真实椅型重新组织结构。"
+    },
+    {
+      "id": "asset_f90411274dfd4f4bbe14",
+      "code": "B144",
+      "category": "bed",
+      "name": "procedural_expansion_v1_bed_053",
+      "geometry_status": "needs_decision",
+      "geometry_reason": "base_style=none，height=70 cm、thickness=70 cm：以 70 cm 厚床垫直接落地，比例明显异常。",
+      "recommendation": "应增加合理床架并重新拟合参数，或移除。"
+    },
+    {
+      "id": "asset_a9a9a3dadca06037e868",
+      "code": "B162",
+      "category": "bed",
+      "name": "procedural_expansion_v1_bed_083",
+      "geometry_status": "needs_decision",
+      "geometry_reason": "base_style=none，height=49 cm、thickness=49 cm：床体主要是一整块 49 cm 厚床垫。",
+      "recommendation": "核对是否确为落地软床；否则重做床架和厚度参数。"
+    }
+  ]
+}
